@@ -1,0 +1,21 @@
+.service {
+    position: relative;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    height: 70vh;
+    width: 100%;
+}
+
+.service-img{
+    flex: 1;
+    height: 100%;
+    width: 100%;
+    object-fit:cover;
+}
+
+.service-txt {
+    position: absolute;
+    top: 35%;
+    color:white;
+}

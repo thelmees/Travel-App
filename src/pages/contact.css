@@ -1,0 +1,21 @@
+.contact {
+    position: relative;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    height: 70vh;
+    width: 100%;
+}
+
+.contact-img{
+    flex: 1;
+    height: 100%;
+    width: 100%;
+    object-fit:cover;
+}
+
+.contact-txt {
+    position: absolute;
+    top: 35%;
+    color:white;
+}
